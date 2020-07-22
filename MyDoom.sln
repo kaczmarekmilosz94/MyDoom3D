@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDoom", "MyDoom\MyDoom.csproj", "{824549E1-607B-4484-A92E-7A9B6F0B8294}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenderEngine", "Renderer\RenderEngine.csproj", "{4FF29FEA-61FE-404A-A100-7ABEEF1DEE61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{824549E1-607B-4484-A92E-7A9B6F0B8294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824549E1-607B-4484-A92E-7A9B6F0B8294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824549E1-607B-4484-A92E-7A9B6F0B8294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824549E1-607B-4484-A92E-7A9B6F0B8294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FF29FEA-61FE-404A-A100-7ABEEF1DEE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF29FEA-61FE-404A-A100-7ABEEF1DEE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF29FEA-61FE-404A-A100-7ABEEF1DEE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF29FEA-61FE-404A-A100-7ABEEF1DEE61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {673A1E32-14B4-41D8-8B39-260472742EB1}
+	EndGlobalSection
+EndGlobal

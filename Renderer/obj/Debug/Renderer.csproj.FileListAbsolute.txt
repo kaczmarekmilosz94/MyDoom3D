@@ -1,0 +1,6 @@
+C:\Users\milos\source\repos\MyDoom\Renderer\bin\Debug\Renderer.dll
+C:\Users\milos\source\repos\MyDoom\Renderer\bin\Debug\Renderer.pdb
+C:\Users\milos\source\repos\MyDoom\Renderer\obj\Debug\Renderer.csproj.CoreCompileInputs.cache
+C:\Users\milos\source\repos\MyDoom\Renderer\obj\Debug\Renderer.dll
+C:\Users\milos\source\repos\MyDoom\Renderer\obj\Debug\Renderer.pdb
+C:\Users\milos\source\repos\MyDoom\Renderer\obj\Debug\Renderer.csprojAssemblyReference.cache
